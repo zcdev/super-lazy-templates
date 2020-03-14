@@ -3,7 +3,7 @@
 
 Just getting SUPER LAZY! This is the more sophisticated version of the cowgirl LAZY Templates by using Slim + Stylus + Gulp.js.
 
-Slim + Stylus + Gulp = Super<br>
+Slim + Stylus + Gulp = SUPER LAZY<br>
 http://slim-lang.com<br>
 http://stylus-lang.com<br>
 http://gulp.js<br>

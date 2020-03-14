@@ -23,7 +23,6 @@ gulp.task('stylus', function() {
     .pipe(browserSync.reload({
       stream: true
     }))
- 
 });
 
 gulp.task('browserSync', function() {
@@ -41,5 +40,7 @@ gulp.task('watch', gulp.series('browserSync', 'slim', 'stylus'), function(){
 
 gulp.task('super-lazy', gulp.series('slim', 'stylus'), function (){
   console.log('Lazily building files...');
-})
+});
+
+// Lazy as hell. That's all you got.
 

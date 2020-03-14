@@ -12,4 +12,6 @@ How to be SUPER LAZY in 2 steps:
 1. Installation: `npm install`
 2. Run: `gulp super-lazy`
 
+TADA~ Check in the `dist` folder!
+
 PS. You might have to `sudo gem install slim` to get slim a bit before you can run fast ;-)))

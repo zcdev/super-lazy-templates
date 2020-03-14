@@ -4,9 +4,9 @@
 Just getting SUPER LAZY! This is the more sophisticated version of the cowgirl LAZY Templates by using Slim + Stylus + Gulp.js.
 
 Slim + Stylus + Gulp = Super
-http://slim-lang.com
-http://stylus-lang.com
-http://gulp.js
+http://slim-lang.com<br>
+http://stylus-lang.com<br>
+http://gulp.js<br>
 
 How to be SUPER LAZY in 2 steps:
 1. Installation: `npm install`
